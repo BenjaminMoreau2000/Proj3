@@ -1,1 +1,1 @@
-# Proj3
+Here we have a few different values for the experiments. This time, large and small weight to the die will cause problems, but it works well for 1.5 to 1.6 if you have a 20 sided die and test for the 11th side. In spite of my best efforts, I have not been able to get much useful data outside this range because there is sometimes a large amount of maxed out or minned out values. However, if you run in the cmd or terminal with the values like I used in the parameter images, then it will not give any erroneous values.
